@@ -16,7 +16,7 @@ import "../extension/PermissionsEnumerable.sol";
 import { Staking20Upgradeable } from "../extension/Staking20Upgradeable.sol";
 import "../interfaces/staking/ITokenStake.sol";
 
-contract TokenStake is
+contract ERC20Stake is
     Initializable,
     ContractMetadata,
     PermissionsEnumerable,
