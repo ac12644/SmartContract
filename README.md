@@ -1,7 +1,6 @@
 # Smart contracts
 
-A collection of all major smart contracts to speed up the development process.
-a
+A collection of all major smart contracts to speed up the development process. More coming soon
 ## Table of Contents
 
 - [Medical Records](#medical-records)
